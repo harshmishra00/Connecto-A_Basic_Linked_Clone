@@ -21,11 +21,12 @@ const Navbar = () => {
     <nav className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-6 py-2 flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
-          <img
+          {/* <img
             className="w-32 h-auto object-contain"
             src="/src/assets/Connecto.png"
             alt="Connecto Logo"
-          />
+          /> */}
+          <h1>Connecto</h1>
         </Link>
 
         <div className="flex items-center space-x-6">
