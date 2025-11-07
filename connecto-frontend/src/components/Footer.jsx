@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <Link to="/" className="flex items-center justify-center md:justify-start space-x-2">
               <img
-                src="/src/assets/Connecto.png"
+                src="https://i.postimg.cc/cCtpxKgt/Chat-GPT-Image-Nov-6-2025-12-25-57-AM-1.png"
                 alt="Connecto Logo"
                 className="w-28 h-auto object-contain"
               />
